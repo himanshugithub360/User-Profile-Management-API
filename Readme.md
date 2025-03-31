@@ -22,8 +22,8 @@ This is a RESTful API for managing user profiles with authentication using JWT. 
 ### 1. Clone the repository
 
 \`\`\`sh
-git clone https://github.com/himanshugithub360/User-Profile-Management-API.git
-cd User-Profile-Management-API
+git clone https://github.com/yourusername/user-profile-api.git
+cd user-profile-api
 \`\`\`
 
 ### 2. Install dependencies
